@@ -1,0 +1,13 @@
+First of all open the Folder "Valorant - Remove HWID" and open the Valorant Spoof
+After that open the Cleaner by admin rights
+
+After all of that steps return to the VALORANT SPOOFER folder and open CMD by Admin rights
+After opening of CMD use command "cd "C:\Users\User\Desktop\Valorant-Spoofer"
+and use command "AMIDEWINx64 /SU /BS"
+After that use "AMIDEWINx64.EXE /SU auto" and "AMIDEWINx64.EXE /BS (your number of BS but change 1-2 numbers)"
+
+After that steps you need to open the folder VolumeID and all of programs copy to disc c:
+After it you need to open CMD and use "cd c:". -> "vol c:" "vol d: (if you have disc D)"
+For example, vol c: told me that my hwid is 848C-0093. I write in cmd "volumeid c: 848C-4393 (I change the 2 numbers)" and like this you need to do with disk d
+
+After all of that you need to download any mac address changer and change all of your mac addresses. After it you need to reboot your pc and open valorant
